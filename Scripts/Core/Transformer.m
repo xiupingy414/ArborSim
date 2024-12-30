@@ -193,7 +193,7 @@ classdef Transformer
             end
             
             % Loop over all the bodies
-            for i = 1 : size(obj.bodies)
+            for i = 1 : size(obj.bodies, 1)
                 % Write the transformation matrix for the current body to a text file
                 % The file name is 'trans_mat_' followed by the name of the body
                 writematrix(obj.trans_mats{i}, [export_dir, filesep, 'trans_mat_', obj.bodies{i}, '.txt'], ...
@@ -869,7 +869,17 @@ classdef Transformer
 
             % Read the joint ROM from the joint ROM file and store it in the 'joint_rom_tbl' property
             joint_rom_file = [obj.model_root_dir, '/Data/GlobalData/Joint_ROM.csv'];
-            obj.joint_rom_tbl = readtable(joint_rom_file, 'Delimiter', ',');
+            joint_rom_imp_opts = detectImportOptions(joint_rom_file);
+            joint_rom_imp_opts = setvartype(joint_rom_imp_opts, 'dof', 'string');
+            
+            numeric_columns = {'min_rx', 'max_rx', 'min_ry', 'max_ry', 'min_rz', 'max_rz', ...
+                              'min_tx', 'max_tx', 'min_ty', 'max_ty', 'min_tz', 'max_tz'};
+
+            joint_rom_imp_opts = setvartype(joint_rom_imp_opts, numeric_columns, 'double');
+            joint_rom_imp_opts = setvaropts(joint_rom_imp_opts, numeric_columns, 'TreatAsMissing', '');
+            joint_rom_imp_opts.Delimiter = ',';
+
+            obj.joint_rom_tbl = readtable(joint_rom_file, joint_rom_imp_opts);
             
             % Write the 'joint_rom_tbl' property of the object to a CSV file named 'Joint_ROM.csv' 
             % in the 'LocalData' directory under the model root directory.

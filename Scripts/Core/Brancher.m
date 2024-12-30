@@ -1036,7 +1036,7 @@ classdef Brancher
                                         adj_wrap_pair_tbl_variable_types, 'VariableNames', adj_wrap_pair_tbl_variable_names);
             
             % Loop over all wrapping surface pairings
-            for i = 1 : size(wrap_pair_tbl)
+            for i = 1 : size(wrap_pair_tbl, 1)
                 % Get the wrapping surface name, paired muscle-tendon units, and active status from the wrapping surface pairings table
                 wrap_surf_name = wrap_pair_tbl.wrap_surf_name{i};
                 paired_mtus = strtrim(strsplit(wrap_pair_tbl.paired_mtu_ligament{i}, ','));
