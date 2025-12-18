@@ -1203,6 +1203,18 @@ classdef Brancher
             % Get all muscle-tendon unit names from the mtu_path_struct field of the object
             all_mtu_names = fieldnames(obj.mtu_path_struct);
 
+            % Find where each name in 'all_mtu_names' is located inside the table
+            [found, row_indices] = ismember(all_mtu_names, mtu_params_tbl.mtu_name);
+            
+            % Validate that every name in the struct actually exists in the CSV
+            if ~all(found)
+                missing_names = all_mtu_names(~found);
+                error('The following names in mtu_path_struct are missing from the CSV: %s', strjoin(missing_names, ', '));
+            end
+            
+            % Re-order the table rows. Now, Row 1 corresponds to all_mtu_names{1}, etc.
+            mtu_params_tbl = mtu_params_tbl(row_indices, :); 
+
             % Get the muscle-tendon unit names that are in the ungrouped muscle-tendon unit parameters table
             ungrouped_mtu_names = obj.separate_grouped_ungrouped_mtus();
 
