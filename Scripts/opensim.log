@@ -1,0 +1,252 @@
+[2026-05-13 23:04:57.923] [info] 'mtu1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:04:57.941] [info] 'mtu2' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:04:58.916] [info] 'group1_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:04:59.119] [info] 'mtu1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:04:59.124] [info] 'mtu2' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:04:59.127] [info] 'mtu3' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:04:59.517] [info] 'group1_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:04:59.648] [info] 'mtu1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:04:59.649] [info] 'mtu2' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:04:59.703] [info] 'mtu3' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:04:59.706] [info] 'mtu4' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:00.070] [info] 'group1_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:00.186] [info] 'mtu1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:00.188] [info] 'mtu2' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:00.189] [info] 'mtu3' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:00.191] [info] 'mtu4' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:00.193] [info] 'mtu5' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:00.504] [info] 'group1_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:00.615] [info] 'mtu1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:00.616] [info] 'mtu2' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:00.618] [info] 'mtu3' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:00.620] [info] 'mtu4' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:00.622] [info] 'mtu5' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:00.624] [info] 'mtu6' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:00.970] [info] 'group1_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:01.075] [info] 'mtu1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:01.077] [info] 'mtu2' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:01.078] [info] 'mtu3' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:01.081] [info] 'mtu4' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:01.083] [info] 'mtu5' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:01.086] [info] 'mtu6' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:01.089] [info] 'mtu7' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:01.363] [info] 'group1_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:01.463] [info] 'mtu1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:01.465] [info] 'mtu2' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:01.707] [info] 'group1_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:01.804] [info] 'mtu1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:01.806] [info] 'mtu2' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:02.071] [info] 'group1_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:02.259] [info] 'mtu1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:02.262] [info] 'mtu2' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:02.515] [info] 'group1_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:02.605] [info] 'mtu1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:02.607] [info] 'mtu2' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:02.838] [info] 'group1_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:02.929] [info] 'mtu1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:02.931] [info] 'mtu2' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:03.154] [info] 'group1_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:03.257] [info] 'mtu1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:03.258] [info] 'mtu2' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:03.475] [info] 'group1_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:03.573] [info] 'mtu1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:03.575] [info] 'mtu2' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:03.804] [info] 'group1_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:03.891] [info] 'mtu1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:03.893] [info] 'mtu2' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:04.146] [info] 'group1_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:04.413] [info] 'mtu1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:04.416] [info] 'mtu2' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:04.662] [info] 'group1_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:04.755] [info] 'mtu1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:04.757] [info] 'mtu2' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:05.002] [info] 'group1_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:05.100] [info] 'mtu1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:05.103] [info] 'mtu2' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:05.347] [info] 'group1_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:05.458] [info] 'mtu1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:05.461] [info] 'mtu2' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-13 23:05:05.697] [info] 'group1_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 00:10:53.595] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 00:25:52.639] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 00:25:59.049] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 00:43:08.388] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 00:48:27.614] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 00:51:50.379] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 00:52:30.614] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 00:59:59.590] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 01:00:03.662] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 01:03:09.949] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 01:05:15.282] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 01:05:55.534] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 01:07:22.473] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 01:08:15.802] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 01:09:16.753] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 01:13:49.440] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 01:45:18.202] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 10:59:16.733] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 11:04:33.675] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 11:05:21.769] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 11:06:05.368] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 11:06:49.212] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 11:07:25.894] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 11:07:55.825] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 11:23:12.437] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 11:33:13.383] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 11:34:41.036] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 11:35:52.200] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 11:37:39.435] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 11:38:59.048] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 11:40:19.494] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 11:40:56.893] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 11:41:40.086] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 11:42:04.201] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 11:42:36.448] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 11:43:20.754] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 11:43:53.839] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 11:47:47.778] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 11:50:23.495] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 11:55:29.910] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 11:56:11.125] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 11:56:45.222] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 11:57:10.029] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 11:57:41.607] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 12:00:24.751] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 12:01:15.955] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 12:01:58.896] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 12:02:30.007] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 12:03:33.792] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 12:28:12.613] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 13:40:14.492] [info] 'trans_spinal_to_anterior_cervical' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 13:40:14.500] [info] 'trans_spinal_to_atlas' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 13:40:14.503] [info] 'trans_spinal_to_skull' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 17:12:55.156] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Conventional/Sue_Neck2.osim
+[2026-05-16 17:12:55.178] [warning] ControllerSet 'controllerset' has subcomponents with duplicate name 'prescribedcontroller'. The duplicate is being renamed to 'prescribedcontroller_0'.
+[2026-05-16 17:12:55.179] [warning] ControllerSet 'controllerset' has subcomponents with duplicate name 'prescribedcontroller'. The duplicate is being renamed to 'prescribedcontroller_1'.
+[2026-05-16 17:14:14.249] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Conventional/Sue_Neck2.osim
+[2026-05-16 17:14:14.254] [warning] ControllerSet 'controllerset' has subcomponents with duplicate name 'prescribedcontroller'. The duplicate is being renamed to 'prescribedcontroller_0'.
+[2026-05-16 17:14:14.255] [warning] ControllerSet 'controllerset' has subcomponents with duplicate name 'prescribedcontroller'. The duplicate is being renamed to 'prescribedcontroller_1'.
+[2026-05-16 17:24:00.583] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Conventional/Sue_Neck2.osim
+[2026-05-16 17:24:00.587] [warning] ControllerSet 'controllerset' has subcomponents with duplicate name 'prescribedcontroller'. The duplicate is being renamed to 'prescribedcontroller_0'.
+[2026-05-16 17:24:00.588] [warning] ControllerSet 'controllerset' has subcomponents with duplicate name 'prescribedcontroller'. The duplicate is being renamed to 'prescribedcontroller_1'.
+[2026-05-16 17:24:02.866] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Proposed/Sue_Neck2.osim
+[2026-05-16 17:29:43.260] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Conventional/Sue_Neck2.osim
+[2026-05-16 17:29:43.263] [warning] ControllerSet 'controllerset' has subcomponents with duplicate name 'prescribedcontroller'. The duplicate is being renamed to 'prescribedcontroller_0'.
+[2026-05-16 17:29:43.264] [warning] ControllerSet 'controllerset' has subcomponents with duplicate name 'prescribedcontroller'. The duplicate is being renamed to 'prescribedcontroller_1'.
+[2026-05-16 17:29:45.212] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Proposed/Sue_Neck2.osim
+[2026-05-16 19:24:52.159] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Conventional/Sue_Neck2.osim
+[2026-05-16 19:24:52.161] [warning] ControllerSet 'controllerset' has subcomponents with duplicate name 'prescribedcontroller'. The duplicate is being renamed to 'prescribedcontroller_0'.
+[2026-05-16 19:24:52.162] [warning] ControllerSet 'controllerset' has subcomponents with duplicate name 'prescribedcontroller'. The duplicate is being renamed to 'prescribedcontroller_1'.
+[2026-05-16 19:24:54.470] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Proposed/Sue_Neck2.osim
+[2026-05-16 20:20:32.471] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Conventional/Sue_Neck2.osim
+[2026-05-16 20:20:34.389] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Proposed/Sue_Neck2.osim
+[2026-05-16 20:25:29.468] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Conventional/Sue_Neck2.osim
+[2026-05-16 20:25:31.503] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Proposed/Sue_Neck2.osim
+[2026-05-16 20:47:05.089] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Conventional/Sue_Neck2.osim
+[2026-05-16 20:47:07.220] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Proposed/Sue_Neck2.osim
+[2026-05-16 20:50:17.297] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Conventional/Sue_Neck2.osim
+[2026-05-16 20:50:19.298] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Proposed/Sue_Neck2.osim
+[2026-05-16 21:01:51.778] [info] Loaded model Sue_Neck2 from file ../Models/Sue_Inspired_Models/Sue_Neck_BranchCount_2/Output/Proposed/Sue_Neck2.osim
+[2026-05-16 21:02:29.398] [info] 'trans_spinal_to_anterior_cervical' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 21:02:29.401] [info] 'trans_spinal_to_atlas' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 21:02:29.403] [info] 'trans_spinal_to_skull' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 21:04:22.360] [info] 'trans_spinal_to_anterior_cervical' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 21:04:22.362] [info] 'trans_spinal_to_atlas' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 21:04:22.364] [info] 'trans_spinal_to_skull' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 21:05:48.603] [info] 'trans_spinal_to_anterior_cervical' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 21:05:48.605] [info] 'trans_spinal_to_atlas' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 21:05:48.607] [info] 'trans_spinal_to_skull' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 21:05:58.904] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 21:06:27.259] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Conventional/Sue_Neck2.osim
+[2026-05-16 21:06:29.112] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Proposed/Sue_Neck2.osim
+[2026-05-16 21:12:05.711] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 21:12:11.542] [info] 'trans_spinal_to_anterior_cervical' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 21:12:11.544] [info] 'trans_spinal_to_atlas' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 21:12:11.546] [info] 'trans_spinal_to_skull' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 21:12:18.896] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Conventional/Sue_Neck2.osim
+[2026-05-16 21:12:20.650] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Proposed/Sue_Neck2.osim
+[2026-05-16 21:14:32.768] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Conventional/Sue_Neck2.osim
+[2026-05-16 21:14:33.377] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Proposed/Sue_Neck2.osim
+[2026-05-16 21:15:25.256] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Conventional/Sue_Neck2.osim
+[2026-05-16 21:15:27.062] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Proposed/Sue_Neck2.osim
+[2026-05-16 21:24:41.463] [info] 'trans_spinal_to_anterior_cervical' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 21:24:41.466] [info] 'trans_spinal_to_atlas' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 21:24:41.468] [info] 'trans_spinal_to_skull' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 21:25:13.853] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 21:25:45.256] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Conventional/Sue_Neck2.osim
+[2026-05-16 21:25:47.082] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Proposed/Sue_Neck2.osim
+[2026-05-16 21:28:00.138] [info] Loaded model Sue_Neck2 from file ../Models/Sue_Inspired_Models/Sue_Neck_BranchCount_2/Output/Proposed/Sue_Neck2.osim
+[2026-05-16 21:30:18.805] [info] Loaded model Sue_Neck2 from file ../Models/Sue_Inspired_Models/Sue_Neck_BranchCount_2/Output/Proposed/Sue_Neck2.osim
+[2026-05-16 21:32:12.051] [info] Loaded model Sue_Neck2 from file ../Models/Sue_Inspired_Models/Sue_Neck_BranchCount_2/Output/Proposed/Sue_Neck2.osim
+[2026-05-16 21:32:37.155] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Conventional/Sue_Neck2.osim
+[2026-05-16 21:32:38.991] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Proposed/Sue_Neck2.osim
+[2026-05-16 21:35:59.505] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 21:36:08.021] [info] 'trans_spinal_to_anterior_cervical' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 21:36:08.023] [info] 'trans_spinal_to_atlas' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 21:36:08.026] [info] 'trans_spinal_to_skull' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 21:36:15.296] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Conventional/Sue_Neck2.osim
+[2026-05-16 21:36:17.212] [info] Loaded model Sue_Neck2 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_2/Output/Proposed/Sue_Neck2.osim
+[2026-05-16 22:38:12.387] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 22:39:14.916] [info] 'trans_spinal_to_anterior_cervical' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 22:39:14.933] [info] 'trans_spinal_to_skull' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 22:57:40.454] [info] Loaded model Sue_Neck1 from file ../Models/Sue_Inspired_Models/Sue_Neck_BranchCount_1/Output/Proposed/Sue_Neck1.osim
+[2026-05-16 22:58:30.624] [info] Loaded model Sue_Neck1 from file ../Models/Sue_Inspired_Models/Sue_Neck_BranchCount_1/Output/Proposed/Sue_Neck1.osim
+[2026-05-16 22:59:50.102] [info] 'trans_spinal_to_anterior_cervical' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 22:59:50.112] [info] 'trans_spinal_to_skull' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 22:59:55.463] [info] 'trans_spinal_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-16 23:00:58.098] [info] Loaded model Sue_Neck1 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_1/Output/Conventional/Sue_Neck1.osim
+[2026-05-16 23:00:59.896] [info] Loaded model Sue_Neck1 from file ..\Models\Sue_Inspired_Models\Sue_Neck_BranchCount_1/Output/Proposed/Sue_Neck1.osim
+[2026-05-17 00:26:15.337] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 00:30:28.676] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 00:33:27.538] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 00:35:55.539] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 00:37:14.787] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 00:38:15.284] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 00:39:09.131] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 00:40:00.676] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 00:41:09.032] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 00:42:57.547] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 00:43:23.224] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 00:43:59.324] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 00:44:42.286] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 00:50:49.100] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 00:55:06.600] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 00:58:04.631] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 01:00:10.859] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 01:01:13.023] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 01:06:38.387] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 01:08:57.527] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 01:10:20.403] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 01:12:22.369] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 01:13:09.914] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 01:13:35.836] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 01:14:10.026] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 01:15:18.775] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 01:16:29.764] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 01:18:37.238] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 01:19:34.100] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 01:20:41.030] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 01:22:10.966] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 01:23:05.348] [info] Loaded model Sue_Leg1 from file ../Models/Sue_Inspired_Models/Sue_Leg_BranchCount_1/Output/Proposed/Sue_Leg1.osim
+[2026-05-17 01:31:23.573] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 01:32:30.575] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 01:33:07.988] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 01:33:33.916] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 01:34:32.048] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 01:35:12.474] [info] 'trex_flexor_medial' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 01:35:12.477] [info] 'trex_flexor_lateral' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 01:39:21.665] [info] Loaded model Sue_Leg1 from file ..\Models\Sue_Inspired_Models\Sue_Leg_BranchCount_1/Output/Conventional/Sue_leg1.osim
+[2026-05-17 01:39:22.732] [info] Loaded model Sue_Leg1 from file ..\Models\Sue_Inspired_Models\Sue_Leg_BranchCount_1/Output/Proposed/Sue_leg1.osim
+[2026-05-17 02:11:49.246] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 02:16:24.224] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 02:20:46.743] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 02:21:42.131] [info] 'trex_flexor_tibia_medial' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 02:21:42.133] [info] 'trex_flexor_tibia_lateral' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 02:21:42.241] [info] 'trex_flexor_foot' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 02:23:01.774] [info] Loaded model Sue_Leg2 from file ../Models/Sue_Inspired_Models/Sue_Leg_BranchCount_2/Output/Proposed/Sue_Leg2.osim
+[2026-05-17 02:23:40.085] [info] 'trex_flexor_tibia_medial' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 02:23:40.087] [info] 'trex_flexor_tibia_lateral' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 02:23:40.089] [info] 'trex_flexor_foot' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 02:23:47.325] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 02:25:07.999] [info] Loaded model Sue_Leg2 from file ..\Models\Sue_Inspired_Models\Sue_Leg_BranchCount_2/Output/Conventional/Sue_leg2.osim
+[2026-05-17 02:25:09.253] [info] Loaded model Sue_Leg2 from file ..\Models\Sue_Inspired_Models\Sue_Leg_BranchCount_2/Output/Proposed/Sue_leg2.osim

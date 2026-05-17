@@ -1,0 +1,6 @@
+joint_name,dof,min_rx,max_rx,min_ry,max_ry,min_rz,max_rz,min_tx,max_tx,min_ty,max_ty,min_tz,max_tz
+ground_foot,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+foot_tibia,rz,NaN,NaN,NaN,NaN,-30,30,NaN,NaN,NaN,NaN,NaN,NaN
+tibia_femur,rz,NaN,NaN,NaN,NaN,-45,45,NaN,NaN,NaN,NaN,NaN,NaN
+tibia_float1,ty,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+tibia_float2,ty,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN

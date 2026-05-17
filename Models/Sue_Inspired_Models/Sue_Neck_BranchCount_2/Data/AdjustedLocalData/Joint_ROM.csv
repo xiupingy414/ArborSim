@@ -1,0 +1,9 @@
+joint_name,dof,min_rx,max_rx,min_ry,max_ry,min_rz,max_rz,min_tx,max_tx,min_ty,max_ty,min_tz,max_tz
+ground_first_dorsal,"0",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+first_dorsal_posterior_cervical,"rx,rz",-8,8,NaN,NaN,-15,15,NaN,NaN,NaN,NaN,NaN,NaN
+posterior_cervical_middle_cervical,"rx",-10,10,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+middle_cervical_anterior_cervical,"rx",-12,12,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+anterior_cervical_atlas_axis,"rx,rz",-15,15,NaN,NaN,-15,15,NaN,NaN,NaN,NaN,NaN,NaN
+atlas_axis_skull,"rx",-18,18,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+posterior_cervical_float1,"ty",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+anterior_cervical_float2,"ty",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN

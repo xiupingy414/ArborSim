@@ -1,0 +1,6 @@
+body_name,mass,com_x,com_y,com_z,inertia_xx,inertia_yy,inertia_zz,inertia_xy,inertia_xz,inertia_yz
+femur,300,0,0,0,42.45,1.215,42.45,0,0,0
+tibia,180,0,0,0,18.5,0.38,18.5,0,0,0
+foot,60,0,0,0,0.192,1.896,1.896,0,0,0
+float1,0.005,0,0,0,2e-07,2e-07,2e-07,0,0,0
+float2,0.005,0,0,0,2e-07,2e-07,2e-07,0,0,0

@@ -1,0 +1,11 @@
+mtu_name,pt_idx,pt_type,attached_body,loc_in_body_x,loc_in_body_y,loc_in_body_z
+trans_spinal_to_anterior_cervical,1,origin,first_dorsal,0.26,-0.1,0
+trans_spinal_to_anterior_cervical,2,viapoint,posterior_cervical,0.22,0,0
+trans_spinal_to_anterior_cervical,3,viapoint,middle_cervical,0.2,0,0
+trans_spinal_to_anterior_cervical,4,insertion,anterior_cervical,0.2,0.05,0
+trans_spinal_to_skull,1,origin,first_dorsal,0.26,-0.1,0
+trans_spinal_to_skull,2,viapoint,posterior_cervical,0.22,0,0
+trans_spinal_to_skull,3,viapoint,middle_cervical,0.21,0,0
+trans_spinal_to_skull,4,viapoint,anterior_cervical,0.2,0,0
+trans_spinal_to_skull,5,viapoint,atlas_axis,0.2,0,0
+trans_spinal_to_skull,6,insertion,skull,0.28,-0.7,0

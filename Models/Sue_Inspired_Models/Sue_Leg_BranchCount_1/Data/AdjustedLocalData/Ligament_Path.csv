@@ -1,0 +1,5 @@
+ligament_name,pt_idx,pt_type,attached_body,loc_in_body_x,loc_in_body_y,loc_in_body_z
+trex_branch_group_ligament1,1,origin,float1,0,0,0
+trex_branch_group_ligament1,2,insertion,tibia,-0.07,0.1,0
+trex_branch_group_ligament2,1,origin,float1,0,0,0
+trex_branch_group_ligament2,2,insertion,foot,-0.08,0.1,0

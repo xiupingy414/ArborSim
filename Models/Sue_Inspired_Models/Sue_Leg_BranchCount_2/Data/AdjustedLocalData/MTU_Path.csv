@@ -1,0 +1,4 @@
+mtu_name,pt_idx,pt_type,attached_body,loc_in_body_x,loc_in_body_y,loc_in_body_z
+trex_branch_group_MTU1,1,origin,femur,-0.1,0.35,0
+trex_branch_group_MTU1,2,viapoint,femur,-0.1,-0.65,0
+trex_branch_group_MTU1,3,insertion,float1,0,0,0

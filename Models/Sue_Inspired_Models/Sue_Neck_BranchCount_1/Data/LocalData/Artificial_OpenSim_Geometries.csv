@@ -1,0 +1,7 @@
+﻿body_name,osim_geom_type,params
+skull,Cylinder,"0.35,0.70"
+atlas_axis,Cylinder,"0.18,0.12"
+anterior_cervical,Cylinder,"0.18,0.25"
+middle_cervical,Cylinder,"0.19,0.30"
+posterior_cervical,Cylinder,"0.20,0.40"
+first_dorsal,Cylinder,"0.24,0.18"

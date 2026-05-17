@@ -1,0 +1,9 @@
+ligament_name,pt_idx,pt_type,attached_body,loc_in_body_x,loc_in_body_y,loc_in_body_z
+trans_spinal_group_ligament1,1,origin,float1,0,0,0
+trans_spinal_group_ligament1,2,viapoint,middle_cervical,0.21,0,0
+trans_spinal_group_ligament1,3,viapoint,anterior_cervical,0.2,0,0
+trans_spinal_group_ligament1,4,viapoint,atlas_axis,0.2,0,0
+trans_spinal_group_ligament1,5,insertion,skull,0.28,-0.7,0
+trans_spinal_group_ligament2,1,origin,float1,0,0,0
+trans_spinal_group_ligament2,2,viapoint,middle_cervical,0.2,0,0
+trans_spinal_group_ligament2,3,insertion,anterior_cervical,0.2,0.05,0

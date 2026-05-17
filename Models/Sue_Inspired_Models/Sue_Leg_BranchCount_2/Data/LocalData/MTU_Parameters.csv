@@ -1,0 +1,4 @@
+mtu_name,max_iso_frc,opt_fib_len,tendon_slk_len,penn_ang,def_fib_len
+trex_flexor_tibia_medial,10000,0.3,0.7,0,0.3
+trex_flexor_tibia_lateral,10000,0.3,0.7,0,0.3
+trex_flexor_foot,10000,0.3,0.7,0,0.3

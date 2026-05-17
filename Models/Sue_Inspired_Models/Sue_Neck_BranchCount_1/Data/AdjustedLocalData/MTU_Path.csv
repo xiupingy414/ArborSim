@@ -1,0 +1,3 @@
+mtu_name,pt_idx,pt_type,attached_body,loc_in_body_x,loc_in_body_y,loc_in_body_z
+trans_spinal_group_MTU1,1,origin,first_dorsal,0.26,-0.1,0
+trans_spinal_group_MTU1,2,insertion,float1,0,0,0

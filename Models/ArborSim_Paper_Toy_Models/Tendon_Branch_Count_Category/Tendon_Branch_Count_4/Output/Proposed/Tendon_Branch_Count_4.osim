@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<OpenSimDocument Version="40000">
+<OpenSimDocument Version="40500">
 	<Model name="Tendon_Branch_Count_4">
-		<!--List of components that this component owns and serializes.-->
-		<components>
-			<TableReporter__double_ name="reporter">
-				<!--The recording time interval (s). If interval == 0, defaults toevery valid integration time step.-->
-				<report_time_interval>0.001</report_time_interval>
-				<!--Paths to outputs (channels) to satisfy the list Input 'inputs' of type InputT (description: Variable list of quantities to be reported.). To specify multiple paths, put spaces between them.-->
-				<input_inputs>/jointset/ground_link1/ground_link1_rz|value(ground_link1_rz) /jointset/link1_link2/link1_link2_rz|value(link1_link2_rz) /jointset/link2_link3/link2_link3_rz|value(link2_link3_rz) /jointset/link3_link4/link3_link4_rz|value(link3_link4_rz) /jointset/link4_link5/link4_link5_rz|value(link4_link5_rz) /jointset/link5_link6/link5_link6_rz|value(link5_link6_rz) /jointset/link6_link7/link6_link7_rz|value(link6_link7_rz) /jointset/link7_link8/link7_link8_rz|value(link7_link8_rz) /jointset/link1_float1/link1_float1_ty|value(link1_float1_ty) /jointset/link2_float2/link2_float2_ty|value(link2_float2_ty) /jointset/link3_float3/link3_float3_ty|value(link3_float3_ty) /jointset/link4_float4/link4_float4_ty|value(link4_float4_ty)</input_inputs>
-			</TableReporter__double_>
-		</components>
 		<!--The model's ground reference frame.-->
 		<Ground name="ground">
 			<!--The geometry used to display the axes of this Frame.-->
@@ -336,27 +327,6 @@
 		<JointSet name="jointset">
 			<objects>
 				<CustomJoint name="ground_link1">
-					<!--List of components that this component owns and serializes.-->
-					<components>
-						<CoordinateLimitForce name="ground_link1_rz_LimitForce">
-							<!--Coordinate (name) to be limited.-->
-							<coordinate>ground_link1_rz</coordinate>
-							<!--Stiffness of the passive limit force when coordinate exceeds upper limit. Note, rotational stiffness expected in N*m/degree.-->
-							<upper_stiffness>0.20000000000000001</upper_stiffness>
-							<!--The upper limit of the coordinate range of motion (rotations in degrees).-->
-							<upper_limit>36</upper_limit>
-							<!--Stiffness of the passive limit force when coordinate exceeds lower limit. Note, rotational stiffness expected in N*m/degree.-->
-							<lower_stiffness>-0.20000000000000001</lower_stiffness>
-							<!--The lower limit of the coordinate range of motion (rotations in degrees).-->
-							<lower_limit>-36</lower_limit>
-							<!--Damping factor on the coordinate's speed applied only when limit is exceeded. For translational has units N/(m/s) and rotational has Nm/(degree/s)-->
-							<damping>0.40000000000000002</damping>
-							<!--Transition region width in the units of the coordinate (rotations in degrees). Dictates the transition from zero to constant stiffness as coordinate exceeds its limit.-->
-							<transition>9</transition>
-							<!--Option to compute the dissipation energy due to damping in the CoordinateLimitForce. If true the dissipation power is automatically integrated to provide energy. Default is false.-->
-							<compute_dissipation_energy>false</compute_dissipation_energy>
-						</CoordinateLimitForce>
-					</components>
 					<!--Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The parent frame for the joint.).-->
 					<socket_parent_frame>ground_offset</socket_parent_frame>
 					<!--Path to a Component that satisfies the Socket 'child_frame' of type PhysicalFrame (description: The child frame for the joint.).-->
@@ -448,27 +418,6 @@
 					</SpatialTransform>
 				</CustomJoint>
 				<CustomJoint name="link1_link2">
-					<!--List of components that this component owns and serializes.-->
-					<components>
-						<CoordinateLimitForce name="link1_link2_rz_LimitForce">
-							<!--Coordinate (name) to be limited.-->
-							<coordinate>link1_link2_rz</coordinate>
-							<!--Stiffness of the passive limit force when coordinate exceeds upper limit. Note, rotational stiffness expected in N*m/degree.-->
-							<upper_stiffness>0.20000000000000001</upper_stiffness>
-							<!--The upper limit of the coordinate range of motion (rotations in degrees).-->
-							<upper_limit>36</upper_limit>
-							<!--Stiffness of the passive limit force when coordinate exceeds lower limit. Note, rotational stiffness expected in N*m/degree.-->
-							<lower_stiffness>-0.20000000000000001</lower_stiffness>
-							<!--The lower limit of the coordinate range of motion (rotations in degrees).-->
-							<lower_limit>-36</lower_limit>
-							<!--Damping factor on the coordinate's speed applied only when limit is exceeded. For translational has units N/(m/s) and rotational has Nm/(degree/s)-->
-							<damping>0.40000000000000002</damping>
-							<!--Transition region width in the units of the coordinate (rotations in degrees). Dictates the transition from zero to constant stiffness as coordinate exceeds its limit.-->
-							<transition>9</transition>
-							<!--Option to compute the dissipation energy due to damping in the CoordinateLimitForce. If true the dissipation power is automatically integrated to provide energy. Default is false.-->
-							<compute_dissipation_energy>false</compute_dissipation_energy>
-						</CoordinateLimitForce>
-					</components>
 					<!--Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The parent frame for the joint.).-->
 					<socket_parent_frame>link1_offset</socket_parent_frame>
 					<!--Path to a Component that satisfies the Socket 'child_frame' of type PhysicalFrame (description: The child frame for the joint.).-->
@@ -560,27 +509,6 @@
 					</SpatialTransform>
 				</CustomJoint>
 				<CustomJoint name="link2_link3">
-					<!--List of components that this component owns and serializes.-->
-					<components>
-						<CoordinateLimitForce name="link2_link3_rz_LimitForce">
-							<!--Coordinate (name) to be limited.-->
-							<coordinate>link2_link3_rz</coordinate>
-							<!--Stiffness of the passive limit force when coordinate exceeds upper limit. Note, rotational stiffness expected in N*m/degree.-->
-							<upper_stiffness>0.20000000000000001</upper_stiffness>
-							<!--The upper limit of the coordinate range of motion (rotations in degrees).-->
-							<upper_limit>36</upper_limit>
-							<!--Stiffness of the passive limit force when coordinate exceeds lower limit. Note, rotational stiffness expected in N*m/degree.-->
-							<lower_stiffness>-0.20000000000000001</lower_stiffness>
-							<!--The lower limit of the coordinate range of motion (rotations in degrees).-->
-							<lower_limit>-36</lower_limit>
-							<!--Damping factor on the coordinate's speed applied only when limit is exceeded. For translational has units N/(m/s) and rotational has Nm/(degree/s)-->
-							<damping>0.40000000000000002</damping>
-							<!--Transition region width in the units of the coordinate (rotations in degrees). Dictates the transition from zero to constant stiffness as coordinate exceeds its limit.-->
-							<transition>9</transition>
-							<!--Option to compute the dissipation energy due to damping in the CoordinateLimitForce. If true the dissipation power is automatically integrated to provide energy. Default is false.-->
-							<compute_dissipation_energy>false</compute_dissipation_energy>
-						</CoordinateLimitForce>
-					</components>
 					<!--Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The parent frame for the joint.).-->
 					<socket_parent_frame>link2_offset</socket_parent_frame>
 					<!--Path to a Component that satisfies the Socket 'child_frame' of type PhysicalFrame (description: The child frame for the joint.).-->
@@ -672,27 +600,6 @@
 					</SpatialTransform>
 				</CustomJoint>
 				<CustomJoint name="link3_link4">
-					<!--List of components that this component owns and serializes.-->
-					<components>
-						<CoordinateLimitForce name="link3_link4_rz_LimitForce">
-							<!--Coordinate (name) to be limited.-->
-							<coordinate>link3_link4_rz</coordinate>
-							<!--Stiffness of the passive limit force when coordinate exceeds upper limit. Note, rotational stiffness expected in N*m/degree.-->
-							<upper_stiffness>0.20000000000000001</upper_stiffness>
-							<!--The upper limit of the coordinate range of motion (rotations in degrees).-->
-							<upper_limit>36</upper_limit>
-							<!--Stiffness of the passive limit force when coordinate exceeds lower limit. Note, rotational stiffness expected in N*m/degree.-->
-							<lower_stiffness>-0.20000000000000001</lower_stiffness>
-							<!--The lower limit of the coordinate range of motion (rotations in degrees).-->
-							<lower_limit>-36</lower_limit>
-							<!--Damping factor on the coordinate's speed applied only when limit is exceeded. For translational has units N/(m/s) and rotational has Nm/(degree/s)-->
-							<damping>0.40000000000000002</damping>
-							<!--Transition region width in the units of the coordinate (rotations in degrees). Dictates the transition from zero to constant stiffness as coordinate exceeds its limit.-->
-							<transition>9</transition>
-							<!--Option to compute the dissipation energy due to damping in the CoordinateLimitForce. If true the dissipation power is automatically integrated to provide energy. Default is false.-->
-							<compute_dissipation_energy>false</compute_dissipation_energy>
-						</CoordinateLimitForce>
-					</components>
 					<!--Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The parent frame for the joint.).-->
 					<socket_parent_frame>link3_offset</socket_parent_frame>
 					<!--Path to a Component that satisfies the Socket 'child_frame' of type PhysicalFrame (description: The child frame for the joint.).-->
@@ -784,27 +691,6 @@
 					</SpatialTransform>
 				</CustomJoint>
 				<CustomJoint name="link4_link5">
-					<!--List of components that this component owns and serializes.-->
-					<components>
-						<CoordinateLimitForce name="link4_link5_rz_LimitForce">
-							<!--Coordinate (name) to be limited.-->
-							<coordinate>link4_link5_rz</coordinate>
-							<!--Stiffness of the passive limit force when coordinate exceeds upper limit. Note, rotational stiffness expected in N*m/degree.-->
-							<upper_stiffness>0.20000000000000001</upper_stiffness>
-							<!--The upper limit of the coordinate range of motion (rotations in degrees).-->
-							<upper_limit>36</upper_limit>
-							<!--Stiffness of the passive limit force when coordinate exceeds lower limit. Note, rotational stiffness expected in N*m/degree.-->
-							<lower_stiffness>-0.20000000000000001</lower_stiffness>
-							<!--The lower limit of the coordinate range of motion (rotations in degrees).-->
-							<lower_limit>-36</lower_limit>
-							<!--Damping factor on the coordinate's speed applied only when limit is exceeded. For translational has units N/(m/s) and rotational has Nm/(degree/s)-->
-							<damping>0.40000000000000002</damping>
-							<!--Transition region width in the units of the coordinate (rotations in degrees). Dictates the transition from zero to constant stiffness as coordinate exceeds its limit.-->
-							<transition>9</transition>
-							<!--Option to compute the dissipation energy due to damping in the CoordinateLimitForce. If true the dissipation power is automatically integrated to provide energy. Default is false.-->
-							<compute_dissipation_energy>false</compute_dissipation_energy>
-						</CoordinateLimitForce>
-					</components>
 					<!--Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The parent frame for the joint.).-->
 					<socket_parent_frame>link4_offset</socket_parent_frame>
 					<!--Path to a Component that satisfies the Socket 'child_frame' of type PhysicalFrame (description: The child frame for the joint.).-->
@@ -896,27 +782,6 @@
 					</SpatialTransform>
 				</CustomJoint>
 				<CustomJoint name="link5_link6">
-					<!--List of components that this component owns and serializes.-->
-					<components>
-						<CoordinateLimitForce name="link5_link6_rz_LimitForce">
-							<!--Coordinate (name) to be limited.-->
-							<coordinate>link5_link6_rz</coordinate>
-							<!--Stiffness of the passive limit force when coordinate exceeds upper limit. Note, rotational stiffness expected in N*m/degree.-->
-							<upper_stiffness>0.20000000000000001</upper_stiffness>
-							<!--The upper limit of the coordinate range of motion (rotations in degrees).-->
-							<upper_limit>36</upper_limit>
-							<!--Stiffness of the passive limit force when coordinate exceeds lower limit. Note, rotational stiffness expected in N*m/degree.-->
-							<lower_stiffness>-0.20000000000000001</lower_stiffness>
-							<!--The lower limit of the coordinate range of motion (rotations in degrees).-->
-							<lower_limit>-36</lower_limit>
-							<!--Damping factor on the coordinate's speed applied only when limit is exceeded. For translational has units N/(m/s) and rotational has Nm/(degree/s)-->
-							<damping>0.40000000000000002</damping>
-							<!--Transition region width in the units of the coordinate (rotations in degrees). Dictates the transition from zero to constant stiffness as coordinate exceeds its limit.-->
-							<transition>9</transition>
-							<!--Option to compute the dissipation energy due to damping in the CoordinateLimitForce. If true the dissipation power is automatically integrated to provide energy. Default is false.-->
-							<compute_dissipation_energy>false</compute_dissipation_energy>
-						</CoordinateLimitForce>
-					</components>
 					<!--Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The parent frame for the joint.).-->
 					<socket_parent_frame>link5_offset</socket_parent_frame>
 					<!--Path to a Component that satisfies the Socket 'child_frame' of type PhysicalFrame (description: The child frame for the joint.).-->
@@ -1008,27 +873,6 @@
 					</SpatialTransform>
 				</CustomJoint>
 				<CustomJoint name="link6_link7">
-					<!--List of components that this component owns and serializes.-->
-					<components>
-						<CoordinateLimitForce name="link6_link7_rz_LimitForce">
-							<!--Coordinate (name) to be limited.-->
-							<coordinate>link6_link7_rz</coordinate>
-							<!--Stiffness of the passive limit force when coordinate exceeds upper limit. Note, rotational stiffness expected in N*m/degree.-->
-							<upper_stiffness>0.20000000000000001</upper_stiffness>
-							<!--The upper limit of the coordinate range of motion (rotations in degrees).-->
-							<upper_limit>36</upper_limit>
-							<!--Stiffness of the passive limit force when coordinate exceeds lower limit. Note, rotational stiffness expected in N*m/degree.-->
-							<lower_stiffness>-0.20000000000000001</lower_stiffness>
-							<!--The lower limit of the coordinate range of motion (rotations in degrees).-->
-							<lower_limit>-36</lower_limit>
-							<!--Damping factor on the coordinate's speed applied only when limit is exceeded. For translational has units N/(m/s) and rotational has Nm/(degree/s)-->
-							<damping>0.40000000000000002</damping>
-							<!--Transition region width in the units of the coordinate (rotations in degrees). Dictates the transition from zero to constant stiffness as coordinate exceeds its limit.-->
-							<transition>9</transition>
-							<!--Option to compute the dissipation energy due to damping in the CoordinateLimitForce. If true the dissipation power is automatically integrated to provide energy. Default is false.-->
-							<compute_dissipation_energy>false</compute_dissipation_energy>
-						</CoordinateLimitForce>
-					</components>
 					<!--Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The parent frame for the joint.).-->
 					<socket_parent_frame>link6_offset</socket_parent_frame>
 					<!--Path to a Component that satisfies the Socket 'child_frame' of type PhysicalFrame (description: The child frame for the joint.).-->
@@ -1120,27 +964,6 @@
 					</SpatialTransform>
 				</CustomJoint>
 				<CustomJoint name="link7_link8">
-					<!--List of components that this component owns and serializes.-->
-					<components>
-						<CoordinateLimitForce name="link7_link8_rz_LimitForce">
-							<!--Coordinate (name) to be limited.-->
-							<coordinate>link7_link8_rz</coordinate>
-							<!--Stiffness of the passive limit force when coordinate exceeds upper limit. Note, rotational stiffness expected in N*m/degree.-->
-							<upper_stiffness>0.20000000000000001</upper_stiffness>
-							<!--The upper limit of the coordinate range of motion (rotations in degrees).-->
-							<upper_limit>36</upper_limit>
-							<!--Stiffness of the passive limit force when coordinate exceeds lower limit. Note, rotational stiffness expected in N*m/degree.-->
-							<lower_stiffness>-0.20000000000000001</lower_stiffness>
-							<!--The lower limit of the coordinate range of motion (rotations in degrees).-->
-							<lower_limit>-36</lower_limit>
-							<!--Damping factor on the coordinate's speed applied only when limit is exceeded. For translational has units N/(m/s) and rotational has Nm/(degree/s)-->
-							<damping>0.40000000000000002</damping>
-							<!--Transition region width in the units of the coordinate (rotations in degrees). Dictates the transition from zero to constant stiffness as coordinate exceeds its limit.-->
-							<transition>9</transition>
-							<!--Option to compute the dissipation energy due to damping in the CoordinateLimitForce. If true the dissipation power is automatically integrated to provide energy. Default is false.-->
-							<compute_dissipation_energy>false</compute_dissipation_energy>
-						</CoordinateLimitForce>
-					</components>
 					<!--Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The parent frame for the joint.).-->
 					<socket_parent_frame>link7_offset</socket_parent_frame>
 					<!--Path to a Component that satisfies the Socket 'child_frame' of type PhysicalFrame (description: The child frame for the joint.).-->
@@ -1596,24 +1419,7 @@
 		</JointSet>
 		<!--Controllers that provide the control inputs for Actuators.-->
 		<ControllerSet name="controllerset">
-			<objects>
-				<PrescribedController name="prescribedcontroller">
-					<!--The list of model actuators that this controller will control.The keyword ALL indicates the controller will control all the actuators in the model-->
-					<actuator_list>group1_MTU1</actuator_list>
-					<!--Functions (one per control) describing the controls for actuatorsspecified for this controller.-->
-					<FunctionSet name="ControlFunctions">
-						<objects>
-							<StepFunction>
-								<transition_start_time>0.10000000000000001</transition_start_time>
-								<transition_end_time>1.1000000000000001</transition_end_time>
-								<start_value>0.20000000000000001</start_value>
-								<end_value>1</end_value>
-							</StepFunction>
-						</objects>
-						<groups />
-					</FunctionSet>
-				</PrescribedController>
-			</objects>
+			<objects />
 			<groups />
 		</ControllerSet>
 		<!--Forces in the model (includes Actuators).-->
@@ -1624,8 +1430,13 @@
 					<min_control>0.01</min_control>
 					<!--Maximum allowed value for control signal. Used primarily when solving for control values.-->
 					<max_control>1</max_control>
-					<!--The set of points defining the path of the actuator.-->
-					<GeometryPath name="geometrypath">
+					<!--The path of the actuator which defines length and lengthening speed.-->
+					<GeometryPath name="path">
+						<!--Default appearance attributes for this AbstractGeometryPath.-->
+						<Appearance>
+							<!--The color, (red, green, blue), [0, 1], used to display the geometry. -->
+							<color>0.80000000000000004 0.10000000000000001 0.10000000000000001</color>
+						</Appearance>
 						<!--The set of points defining the path-->
 						<PathPointSet>
 							<objects>
@@ -1644,11 +1455,6 @@
 							</objects>
 							<groups />
 						</PathPointSet>
-						<!--Default appearance attributes for this GeometryPath-->
-						<Appearance>
-							<!--The color, (red, green, blue), [0, 1], used to display the geometry. -->
-							<color>0.80000000000000004 0.10000000000000001 0.10000000000000001</color>
-						</Appearance>
 					</GeometryPath>
 					<!--Maximum isometric force that the fibers can generate-->
 					<max_isometric_force>1</max_isometric_force>
@@ -1658,10 +1464,6 @@
 					<tendon_slack_length>0.0001</tendon_slack_length>
 					<!--Angle between tendon and fibers at optimal fiber length expressed in radians-->
 					<pennation_angle_at_optimal>0</pennation_angle_at_optimal>
-					<!--Compute muscle dynamics ignoring tendon compliance. Tendon is assumed to be rigid.-->
-					<ignore_tendon_compliance>true</ignore_tendon_compliance>
-					<!--The linear damping of the fiber.-->
-					<fiber_damping>0.20000000000000001</fiber_damping>
 					<!--Assumed initial fiber length if none is assigned.-->
 					<default_fiber_length>0.158</default_fiber_length>
 					<!--Active-force-length curve.-->
@@ -1694,8 +1496,13 @@
 					</TendonForceLengthCurve>
 				</Millard2012EquilibriumMuscle>
 				<Ligament name="group1_ligament1">
-					<!--the set of points defining the path of the ligament-->
-					<GeometryPath name="geometrypath">
+					<!--The path defines the length and lengthening speed of the PathSpring-->
+					<GeometryPath name="path">
+						<!--Default appearance attributes for this AbstractGeometryPath.-->
+						<Appearance>
+							<!--The color, (red, green, blue), [0, 1], used to display the geometry. -->
+							<color>0 1 0</color>
+						</Appearance>
 						<!--The set of points defining the path-->
 						<PathPointSet>
 							<objects>
@@ -1720,11 +1527,6 @@
 							</objects>
 							<groups />
 						</PathPointSet>
-						<!--Default appearance attributes for this GeometryPath-->
-						<Appearance>
-							<!--The color, (red, green, blue), [0, 1], used to display the geometry. -->
-							<color>0 1 0</color>
-						</Appearance>
 					</GeometryPath>
 					<!--resting length of the ligament-->
 					<resting_length>0.067000000000000004</resting_length>
@@ -1736,8 +1538,13 @@
 					</TendonForceLengthCurve>
 				</Ligament>
 				<Ligament name="group1_ligament2">
-					<!--the set of points defining the path of the ligament-->
-					<GeometryPath name="geometrypath">
+					<!--The path defines the length and lengthening speed of the PathSpring-->
+					<GeometryPath name="path">
+						<!--Default appearance attributes for this AbstractGeometryPath.-->
+						<Appearance>
+							<!--The color, (red, green, blue), [0, 1], used to display the geometry. -->
+							<color>0 1 0</color>
+						</Appearance>
 						<!--The set of points defining the path-->
 						<PathPointSet>
 							<objects>
@@ -1768,11 +1575,6 @@
 							</objects>
 							<groups />
 						</PathPointSet>
-						<!--Default appearance attributes for this GeometryPath-->
-						<Appearance>
-							<!--The color, (red, green, blue), [0, 1], used to display the geometry. -->
-							<color>0 1 0</color>
-						</Appearance>
 					</GeometryPath>
 					<!--resting length of the ligament-->
 					<resting_length>0.22500000000000001</resting_length>
@@ -1784,8 +1586,13 @@
 					</TendonForceLengthCurve>
 				</Ligament>
 				<Ligament name="group1_ligament3">
-					<!--the set of points defining the path of the ligament-->
-					<GeometryPath name="geometrypath">
+					<!--The path defines the length and lengthening speed of the PathSpring-->
+					<GeometryPath name="path">
+						<!--Default appearance attributes for this AbstractGeometryPath.-->
+						<Appearance>
+							<!--The color, (red, green, blue), [0, 1], used to display the geometry. -->
+							<color>0 1 0</color>
+						</Appearance>
 						<!--The set of points defining the path-->
 						<PathPointSet>
 							<objects>
@@ -1816,11 +1623,6 @@
 							</objects>
 							<groups />
 						</PathPointSet>
-						<!--Default appearance attributes for this GeometryPath-->
-						<Appearance>
-							<!--The color, (red, green, blue), [0, 1], used to display the geometry. -->
-							<color>0 1 0</color>
-						</Appearance>
 					</GeometryPath>
 					<!--resting length of the ligament-->
 					<resting_length>0.22500000000000001</resting_length>
@@ -1832,8 +1634,13 @@
 					</TendonForceLengthCurve>
 				</Ligament>
 				<Ligament name="group1_ligament4">
-					<!--the set of points defining the path of the ligament-->
-					<GeometryPath name="geometrypath">
+					<!--The path defines the length and lengthening speed of the PathSpring-->
+					<GeometryPath name="path">
+						<!--Default appearance attributes for this AbstractGeometryPath.-->
+						<Appearance>
+							<!--The color, (red, green, blue), [0, 1], used to display the geometry. -->
+							<color>0 1 0</color>
+						</Appearance>
 						<!--The set of points defining the path-->
 						<PathPointSet>
 							<objects>
@@ -1858,11 +1665,6 @@
 							</objects>
 							<groups />
 						</PathPointSet>
-						<!--Default appearance attributes for this GeometryPath-->
-						<Appearance>
-							<!--The color, (red, green, blue), [0, 1], used to display the geometry. -->
-							<color>0 1 0</color>
-						</Appearance>
 					</GeometryPath>
 					<!--resting length of the ligament-->
 					<resting_length>0.067000000000000004</resting_length>
@@ -1874,8 +1676,13 @@
 					</TendonForceLengthCurve>
 				</Ligament>
 				<Ligament name="group1_ligament5">
-					<!--the set of points defining the path of the ligament-->
-					<GeometryPath name="geometrypath">
+					<!--The path defines the length and lengthening speed of the PathSpring-->
+					<GeometryPath name="path">
+						<!--Default appearance attributes for this AbstractGeometryPath.-->
+						<Appearance>
+							<!--The color, (red, green, blue), [0, 1], used to display the geometry. -->
+							<color>0 1 0</color>
+						</Appearance>
 						<!--The set of points defining the path-->
 						<PathPointSet>
 							<objects>
@@ -1900,11 +1707,6 @@
 							</objects>
 							<groups />
 						</PathPointSet>
-						<!--Default appearance attributes for this GeometryPath-->
-						<Appearance>
-							<!--The color, (red, green, blue), [0, 1], used to display the geometry. -->
-							<color>0 1 0</color>
-						</Appearance>
 					</GeometryPath>
 					<!--resting length of the ligament-->
 					<resting_length>0.067000000000000004</resting_length>
@@ -1916,8 +1718,13 @@
 					</TendonForceLengthCurve>
 				</Ligament>
 				<Ligament name="group1_ligament6">
-					<!--the set of points defining the path of the ligament-->
-					<GeometryPath name="geometrypath">
+					<!--The path defines the length and lengthening speed of the PathSpring-->
+					<GeometryPath name="path">
+						<!--Default appearance attributes for this AbstractGeometryPath.-->
+						<Appearance>
+							<!--The color, (red, green, blue), [0, 1], used to display the geometry. -->
+							<color>0 1 0</color>
+						</Appearance>
 						<!--The set of points defining the path-->
 						<PathPointSet>
 							<objects>
@@ -1948,11 +1755,6 @@
 							</objects>
 							<groups />
 						</PathPointSet>
-						<!--Default appearance attributes for this GeometryPath-->
-						<Appearance>
-							<!--The color, (red, green, blue), [0, 1], used to display the geometry. -->
-							<color>0 1 0</color>
-						</Appearance>
 					</GeometryPath>
 					<!--resting length of the ligament-->
 					<resting_length>0.22500000000000001</resting_length>
@@ -1964,8 +1766,13 @@
 					</TendonForceLengthCurve>
 				</Ligament>
 				<Ligament name="group1_ligament7">
-					<!--the set of points defining the path of the ligament-->
-					<GeometryPath name="geometrypath">
+					<!--The path defines the length and lengthening speed of the PathSpring-->
+					<GeometryPath name="path">
+						<!--Default appearance attributes for this AbstractGeometryPath.-->
+						<Appearance>
+							<!--The color, (red, green, blue), [0, 1], used to display the geometry. -->
+							<color>0 1 0</color>
+						</Appearance>
 						<!--The set of points defining the path-->
 						<PathPointSet>
 							<objects>
@@ -1990,11 +1797,6 @@
 							</objects>
 							<groups />
 						</PathPointSet>
-						<!--Default appearance attributes for this GeometryPath-->
-						<Appearance>
-							<!--The color, (red, green, blue), [0, 1], used to display the geometry. -->
-							<color>0 1 0</color>
-						</Appearance>
 					</GeometryPath>
 					<!--resting length of the ligament-->
 					<resting_length>0.067000000000000004</resting_length>
@@ -2006,8 +1808,13 @@
 					</TendonForceLengthCurve>
 				</Ligament>
 				<Ligament name="group1_ligament8">
-					<!--the set of points defining the path of the ligament-->
-					<GeometryPath name="geometrypath">
+					<!--The path defines the length and lengthening speed of the PathSpring-->
+					<GeometryPath name="path">
+						<!--Default appearance attributes for this AbstractGeometryPath.-->
+						<Appearance>
+							<!--The color, (red, green, blue), [0, 1], used to display the geometry. -->
+							<color>0 1 0</color>
+						</Appearance>
 						<!--The set of points defining the path-->
 						<PathPointSet>
 							<objects>
@@ -2086,11 +1893,6 @@
 							</objects>
 							<groups />
 						</PathPointSet>
-						<!--Default appearance attributes for this GeometryPath-->
-						<Appearance>
-							<!--The color, (red, green, blue), [0, 1], used to display the geometry. -->
-							<color>0 1 0</color>
-						</Appearance>
 					</GeometryPath>
 					<!--resting length of the ligament-->
 					<resting_length>0.74199999999999999</resting_length>

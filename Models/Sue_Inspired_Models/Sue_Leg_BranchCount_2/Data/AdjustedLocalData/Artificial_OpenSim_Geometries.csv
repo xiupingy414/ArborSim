@@ -1,0 +1,6 @@
+body_name,osim_geom_type,params
+femur,Cylinder,"0.09,0.65"
+tibia,Cylinder,"0.065,0.55"
+foot,Cylinder,"0.08,0.3"
+float1,Sphere,"0.025"
+float2,Sphere,"0.025"

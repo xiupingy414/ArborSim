@@ -1,0 +1,7 @@
+joint_name,par_body,chd_body,loc_in_par_x,loc_in_par_y,loc_in_par_z,ori_in_par_x,ori_in_par_y,ori_in_par_z,loc_in_chd_x,loc_in_chd_y,loc_in_chd_z,ori_in_chd_x,ori_in_chd_y,ori_in_chd_z
+ground_first_dorsal,ground,first_dorsal,0,1,0,0,0,90,0,-0.18,0,0,0,20
+first_dorsal_posterior_cervical,first_dorsal,posterior_cervical,0,0.18,0,0,0,0,0,-0.4,0,0,0,0
+posterior_cervical_middle_cervical,posterior_cervical,middle_cervical,0,0.4,0,0,0,0,0,-0.3,0,0,0,0
+middle_cervical_anterior_cervical,middle_cervical,anterior_cervical,0,0.3,0,0,0,0,0,-0.25,0,0,0,0
+anterior_cervical_atlas_axis,anterior_cervical,atlas_axis,0,0.25,0,0,0,0,0,-0.12,0,0,0,0
+atlas_axis_skull,atlas_axis,skull,0,0.12,0,0,0,0,0,-0.7,0,0,0,-20

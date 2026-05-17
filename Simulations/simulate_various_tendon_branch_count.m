@@ -1,4 +1,4 @@
-% This script simulates models categorized by fiber length to MTU length 
+   % This script simulates models categorized by fiber length to MTU length 
 % ratio as described in the accompanying paper. It applies both the 
 % conventional branching modeling method and proposed branching modeling 
 % method, storing results in the 'Results' folder.

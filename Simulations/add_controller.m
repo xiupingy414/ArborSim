@@ -22,6 +22,14 @@ function model = add_controller(model, prescribed_controller_type, prescribed_co
         for i = 1 : mtu_num
             % Get the muscle.
             mtu = Millard2012EquilibriumMuscle.safeDownCast(model.getForceSet().getMuscles().get(i-1));
+            mtu_name = char(mtu.getName());
+
+            % If selected MTU names are provided, only stimulate those MTUs.
+            if isfield(prescribed_controller_params, 'mtu_names')
+                if ~ismember(mtu_name, prescribed_controller_params.mtu_names)
+                    continue;
+                end
+            end
             
             % Create a controller for the muscle.
             controller_to_add = PrescribedController();

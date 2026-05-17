@@ -1,0 +1,22 @@
+[2026-05-17 13:29:05.375] [info] Loaded model Sue_Leg2 from file ..\Models\Sue_Inspired_Models\Sue_Leg_BranchCount_2/Output/Conventional/Sue_leg2.osim
+[2026-05-17 13:29:07.068] [info] Loaded model Sue_Leg2 from file ..\Models\Sue_Inspired_Models\Sue_Leg_BranchCount_2/Output/Proposed/Sue_leg2.osim
+[2026-05-17 13:30:38.874] [info] Loaded model Sue_Leg2 from file ../Models/Sue_Inspired_Models/Sue_Leg_BranchCount_2/Output/Proposed/Sue_Leg2.osim
+[2026-05-17 13:34:51.579] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 13:35:04.232] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 13:35:14.925] [info] 'trex_flexor_tibia_medial' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 13:35:14.929] [info] 'trex_flexor_tibia_lateral' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 13:35:14.937] [info] 'trex_flexor_foot' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 13:35:29.704] [info] Loaded model Sue_Leg2 from file ..\Models\Sue_Inspired_Models\Sue_Leg_BranchCount_2/Output/Conventional/Sue_leg2.osim
+[2026-05-17 13:35:30.840] [info] Loaded model Sue_Leg2 from file ..\Models\Sue_Inspired_Models\Sue_Leg_BranchCount_2/Output/Proposed/Sue_leg2.osim
+[2026-05-17 13:36:38.564] [info] 'trex_flexor_tibia_medial' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 13:36:38.567] [info] 'trex_flexor_tibia_lateral' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 13:36:38.568] [info] 'trex_flexor_foot' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 13:36:47.594] [info] 'trex_branch_group_MTU1' Parameter update for the damped-model: ActiveForceLengthCurve minimum value was 0.1 but is now 0.0.
+[2026-05-17 13:36:50.717] [info] Loaded model Sue_Leg2 from file ..\Models\Sue_Inspired_Models\Sue_Leg_BranchCount_2/Output/Conventional/Sue_leg2.osim
+[2026-05-17 13:36:51.867] [info] Loaded model Sue_Leg2 from file ..\Models\Sue_Inspired_Models\Sue_Leg_BranchCount_2/Output/Proposed/Sue_leg2.osim
+[2026-05-17 13:39:45.961] [info] Loaded model Sue_Leg2 from file ../Models/Sue_Inspired_Models/Sue_Leg_BranchCount_2/Output/Proposed/Sue_Leg2.osim
+[2026-05-17 13:49:13.481] [info] Loaded model Sue_Leg2 from file ../Models/Sue_Inspired_Models/Sue_Leg_BranchCount_2/Output/Proposed/Sue_Leg2.osim
+[2026-05-17 13:51:26.141] [info] Loaded model Sue_Leg2_no_forces from file ../Models/Sue_Inspired_Models/Sue_Leg_BranchCount_2/Output/Proposed/Sue_Leg2_no_forces.osim
+[2026-05-17 13:53:48.662] [info] Loaded model Sue_Leg2_no_forces from file ../Models/Sue_Inspired_Models/Sue_Leg_BranchCount_2/Output/Proposed/Sue_Leg2_no_forces.osim
+[2026-05-17 13:58:50.454] [info] Loaded model Sue_Leg2 from file ..\Models\Sue_Inspired_Models\Sue_Leg_BranchCount_2/Output/Conventional/Sue_leg2.osim
+[2026-05-17 13:58:51.729] [info] Loaded model Sue_Leg2 from file ..\Models\Sue_Inspired_Models\Sue_Leg_BranchCount_2/Output/Proposed/Sue_leg2.osim

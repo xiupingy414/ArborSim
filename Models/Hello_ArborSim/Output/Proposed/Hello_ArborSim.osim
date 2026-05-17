@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<OpenSimDocument Version="40000">
+<OpenSimDocument Version="40500">
 	<Model name="Hello_ArborSim">
 		<!--The model's ground reference frame.-->
 		<Ground name="ground">
@@ -503,8 +503,13 @@
 					<min_control>0.01</min_control>
 					<!--Maximum allowed value for control signal. Used primarily when solving for control values.-->
 					<max_control>1</max_control>
-					<!--The set of points defining the path of the actuator.-->
-					<GeometryPath name="geometrypath">
+					<!--The path of the actuator which defines length and lengthening speed.-->
+					<GeometryPath name="path">
+						<!--Default appearance attributes for this AbstractGeometryPath.-->
+						<Appearance>
+							<!--The color, (red, green, blue), [0, 1], used to display the geometry. -->
+							<color>0.80000000000000004 0.10000000000000001 0.10000000000000001</color>
+						</Appearance>
 						<!--The set of points defining the path-->
 						<PathPointSet>
 							<objects>
@@ -535,11 +540,6 @@
 							</objects>
 							<groups />
 						</PathPointSet>
-						<!--Default appearance attributes for this GeometryPath-->
-						<Appearance>
-							<!--The color, (red, green, blue), [0, 1], used to display the geometry. -->
-							<color>0.80000000000000004 0.10000000000000001 0.10000000000000001</color>
-						</Appearance>
 					</GeometryPath>
 					<!--Maximum isometric force that the fibers can generate-->
 					<max_isometric_force>2</max_isometric_force>
@@ -581,8 +581,13 @@
 					</TendonForceLengthCurve>
 				</Millard2012EquilibriumMuscle>
 				<Ligament name="group1_ligament1">
-					<!--the set of points defining the path of the ligament-->
-					<GeometryPath name="geometrypath">
+					<!--The path defines the length and lengthening speed of the PathSpring-->
+					<GeometryPath name="path">
+						<!--Default appearance attributes for this AbstractGeometryPath.-->
+						<Appearance>
+							<!--The color, (red, green, blue), [0, 1], used to display the geometry. -->
+							<color>0 1 0</color>
+						</Appearance>
 						<!--The set of points defining the path-->
 						<PathPointSet>
 							<objects>
@@ -601,11 +606,6 @@
 							</objects>
 							<groups />
 						</PathPointSet>
-						<!--Default appearance attributes for this GeometryPath-->
-						<Appearance>
-							<!--The color, (red, green, blue), [0, 1], used to display the geometry. -->
-							<color>0 1 0</color>
-						</Appearance>
 					</GeometryPath>
 					<!--resting length of the ligament-->
 					<resting_length>0.125</resting_length>
@@ -617,8 +617,13 @@
 					</TendonForceLengthCurve>
 				</Ligament>
 				<Ligament name="group1_ligament2">
-					<!--the set of points defining the path of the ligament-->
-					<GeometryPath name="geometrypath">
+					<!--The path defines the length and lengthening speed of the PathSpring-->
+					<GeometryPath name="path">
+						<!--Default appearance attributes for this AbstractGeometryPath.-->
+						<Appearance>
+							<!--The color, (red, green, blue), [0, 1], used to display the geometry. -->
+							<color>0 1 0</color>
+						</Appearance>
 						<!--The set of points defining the path-->
 						<PathPointSet>
 							<objects>
@@ -649,11 +654,6 @@
 							</objects>
 							<groups />
 						</PathPointSet>
-						<!--Default appearance attributes for this GeometryPath-->
-						<Appearance>
-							<!--The color, (red, green, blue), [0, 1], used to display the geometry. -->
-							<color>0 1 0</color>
-						</Appearance>
 					</GeometryPath>
 					<!--resting length of the ligament-->
 					<resting_length>0.47499999999999998</resting_length>

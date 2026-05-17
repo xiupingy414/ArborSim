@@ -1,0 +1,5 @@
+joint_name,par_body,chd_body,loc_in_par_x,loc_in_par_y,loc_in_par_z,ori_in_par_x,ori_in_par_y,ori_in_par_z,loc_in_chd_x,loc_in_chd_y,loc_in_chd_z,ori_in_chd_x,ori_in_chd_y,ori_in_chd_z
+ground_foot,ground,foot,0,0,0,0,0,0,0,0,0,0,0,90
+foot_tibia,foot,tibia,0.2,0.08,0,0,0,135,-0.3,-0.55,0,0,0,0
+tibia_femur,tibia,femur,0,0.55,0,0,0,-90,0,-0.65,0,0,0,0
+tibia_float1,tibia,float1,-0.1,0.6,0,0,0,0,0,0,0,0,0,0
