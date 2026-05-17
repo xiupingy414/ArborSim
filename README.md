@@ -1,6 +1,36 @@
 # ArborSim
+## Xiuping's Generated Model Navigation
 
-## Description
+This fork includes my customized Sue/T. rex-inspired models generated using ArborSim. I modeled both the leg and neck of a simplified Sue/T. rex-inspired structure and compared two branching configurations for each model: one branch point and two branch points. These models were mainly created to explore how different branch point settings affect the generated conventional and proposed OpenSim models.
+
+The simulation results are not ideal. Since the simulation scripts are highly dependent on the original ArborSim toy model setup, they do not transfer perfectly to the customized leg and neck models.
+
+### Model Folders
+
+- `Models/Sue_Inspired_Models/`
+  - Contains the generated Sue-inspired leg and neck OpenSim models.
+  - Includes both conventional and proposed branching model outputs when available.
+
+- `scripts/`
+  - Contains MATLAB scripts used to define body geometry, joints, MTU paths, ligament branches, wrapping surfaces, and simulation setup.
+
+- `Simulations/`
+  - Contains simulation files and outputs used to test model behavior.
+
+### Current Modeling Focus
+
+The current models focus on simplified Sue/T. rex-inspired musculoskeletal structures, especially:
+
+- branched muscle-tendon architecture
+- branch count comparison
+- passive ligament behavior
+- joint coordinate constraints
+- knee wrapping surface design
+- conventional vs. proposed ArborSim model generation
+
+---
+
+## Original ArborSim Description
 ArborSim (Articulated, Branching, OpenSim Routing for Constructing Models of Multi-jointed Appendages with Complex Muscle-Tendon Architecture) is a dedicated software framework for musculoskeletal modeling. Its primary role is to assist biomechanics researchers in efficiently constructing models of articulated appendages from CT scans and dissection data, with the data organized into multiple Comma-Separated Values (CSV) files.
 
 ArborSim is designed to integrate seamlessly with the [API of OpenSim](https://github.com/opensim-org/opensim-core), a widely recognized open-source software for modeling, simulating, and analyzing musculoskeletal systems. This integration is intended to streamline model development and faciliate sharing within the research community.
